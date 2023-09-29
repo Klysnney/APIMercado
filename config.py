@@ -1,7 +1,7 @@
 DEBUG = True
 
 USERNAME = "root"
-PASSWORD = "Everton12"
+PASSWORD = ""
 SERVER = "localhost"
 DB = "mercado"
 
